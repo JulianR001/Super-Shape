@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=house
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ house\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=colour\ fill\ sideLength
+comment1.target=house(java.lang.String,\ boolean,\ double)
+comment2.params=
+comment2.target=double\ CalculateArea()
+comment3.params=
+comment3.target=double\ CalculatePerimeter()
+comment4.params=
+comment4.target=double\ getSize()
+comment5.params=s
+comment5.target=void\ setSize(double)
+numComments=6
